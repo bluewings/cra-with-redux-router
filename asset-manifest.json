@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cra-with-redux-router/static/css/main.24d4eb23.chunk.css",
+    "main.js": "/cra-with-redux-router/static/js/main.8bc4ae7c.chunk.js",
+    "main.js.map": "/cra-with-redux-router/static/js/main.8bc4ae7c.chunk.js.map",
+    "runtime-main.js": "/cra-with-redux-router/static/js/runtime-main.1c4aa34f.js",
+    "runtime-main.js.map": "/cra-with-redux-router/static/js/runtime-main.1c4aa34f.js.map",
+    "static/js/2.e4ffba27.chunk.js": "/cra-with-redux-router/static/js/2.e4ffba27.chunk.js",
+    "static/js/2.e4ffba27.chunk.js.map": "/cra-with-redux-router/static/js/2.e4ffba27.chunk.js.map",
+    "index.html": "/cra-with-redux-router/index.html",
+    "precache-manifest.5706a9b4538cba342dcbef2f132cb96c.js": "/cra-with-redux-router/precache-manifest.5706a9b4538cba342dcbef2f132cb96c.js",
+    "service-worker.js": "/cra-with-redux-router/service-worker.js",
+    "static/css/main.24d4eb23.chunk.css.map": "/cra-with-redux-router/static/css/main.24d4eb23.chunk.css.map",
+    "static/js/2.e4ffba27.chunk.js.LICENSE": "/cra-with-redux-router/static/js/2.e4ffba27.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c4aa34f.js",
+    "static/js/2.e4ffba27.chunk.js",
+    "static/css/main.24d4eb23.chunk.css",
+    "static/js/main.8bc4ae7c.chunk.js"
+  ]
+}
